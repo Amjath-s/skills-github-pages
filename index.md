@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
-# `<h3>` Hi
+title: Welcome to my git blog
+### `<h3>` Hi
 ---
 
